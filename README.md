@@ -7,6 +7,7 @@
 ## Datasets
 Download the MURA dataset. 
 ## Cite the paper:
+```bash
 @InProceedings{Kumar_2023_ICCV,
     author    = {Kumar, Komal and Pailla, Balakrishna and Tadepalli, Kalyan and Roy, Sudipta},
     title     = {Robust MSFM Learning Network for Classification and Weakly Supervised Localization},
@@ -15,3 +16,4 @@ Download the MURA dataset.
     year      = {2023},
     pages     = {2442-2451}
 }
+```
